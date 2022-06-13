@@ -1,9 +1,7 @@
 import React from "react";
 
 const WelcomePage = () => {
-  const welcomeMessage = "Hola mundo!";
-
-  return <>{welcomeMessage}</>;
+  return <>Hola</>;
 };
 
 export default WelcomePage;
